@@ -87,6 +87,7 @@ cn_display.plot()
 
 ## Output:
 ![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
+<img width="1920" height="1080" alt="Screenshot 2026-05-11 154035" src="https://github.com/user-attachments/assets/a9081f9f-844a-4cbe-88c2-d965ab2e0a09" />
 
 
 ## Result:
